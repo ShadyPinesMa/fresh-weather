@@ -10,18 +10,16 @@ export default function Temperature() {
               65
             </strong>
             <small className="units">
-              <a href="#" id="fahrenheit" className="active">
+              
                 °F
-              </a>{" "}
-              |{" "}
-              <a href="#" id="celcius">
+                |
                 °C
-              </a>
+              
             </small>
           </span>
         </div>
         <div className="col-4">
-          <img className="weather-image" id="icon" src="" />
+          <img className="weather-image" id="icon" src="" alt="sun" />
         </div>
         <div className="col-4">
           <ul className="stats">
