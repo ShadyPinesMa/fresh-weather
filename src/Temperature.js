@@ -19,7 +19,7 @@ export default function Temperature() {
           </span>
         </div>
         <div className="col-4">
-          <img className="weather-image" id="icon" src="" alt="sun" />
+          <img className="weather-image" id="icon" src="/" alt="sun" />
         </div>
         <div className="col-4">
           <ul className="stats">
