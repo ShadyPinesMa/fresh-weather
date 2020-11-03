@@ -21,7 +21,7 @@ export default function Search() {
                   id="search-button"
                   className="btn btn-success w-100"
                 >
-                  <i class="fas fa-search" id="search"></i> Search
+                  <i className="fas fa-search" id="search" /> Search
                 </button>
               </div>
               <div className="col-2">
